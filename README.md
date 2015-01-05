@@ -1,4 +1,4 @@
-# Ocean theme for Terminal
+# Ocean theme for Terminal.app
 
 <img src="https://cloud.githubusercontent.com/assets/98681/5622107/93364f60-94f2-11e4-9deb-7b1476b50b52.png" width="762">
 
