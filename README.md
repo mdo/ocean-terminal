@@ -1,5 +1,6 @@
+# Ocean theme for Terminal
 
-# Ocean Dark for Terminal
+<img src="https://cloud.githubusercontent.com/assets/98681/5622070/fe6c20bc-94f1-11e4-9033-6dc3f1ad8d96.png" width="762">
 
 This is a quick Terminal.app profile (color scheme) for OS X based on the [base16 Ocean theme](http://chriskempson.github.io/base16/#ocean). I couldn't find one in the official repo, so I hastily made my own. 
 
