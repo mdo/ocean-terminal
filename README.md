@@ -19,6 +19,10 @@ If you like this theme, be sure to check out the [editor color schemes](https://
 3. In the bottom left, click the settings cog and select **Import...**. Navigate to the download file and open it.
 4. Lastly, set it as your default by selecting the new profile and clicking the **Default** button.
 
+## Terminal prompt
+
+Curious about my Terminal prompt (the arrow, path, and Git info)? Snag it from my `.bash_profile` in my [mdo/config](https://github.com/mdo/config) repo. [Here's what you'd need](https://github.com/mdo/config/blob/master/.bash_profile#L1-L13)—just copy, paste, and relaunch your Terminal.
+
 ## License
 
 This builds on the freely available [base16 project](https://github.com/chriskempson/base16) by @chriskempson, and is licensed MIT.
