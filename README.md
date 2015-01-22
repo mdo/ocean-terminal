@@ -12,6 +12,10 @@ A little about base16:
 
 If you like this theme, be sure to check out the [editor color schemes](https://github.com/chriskempson/base16-textmate) and [Spacegray UI theme](http://kkga.github.io/spacegray/) for Atom and Sublime Text.
 
+## iTerm
+
+Check out <https://github.com/fabianperez/ocean-dark-iterm> for an iTerm version.
+
 ## Usage
 
 1. Download this repo.
